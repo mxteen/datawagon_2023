@@ -15,6 +15,7 @@
 - Использование библиотек с открытым исходным кодом
 
 ## Данные
+[Ссылка на данные](https://drive.google.com/drive/folders/1Qh5ZMSDOJ0d0XuInbW4DyiuhaZ1mfmOv?usp=drive_link)
 
 Данные предоставлены в двух частях:
 
